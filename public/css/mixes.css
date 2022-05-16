@@ -1,0 +1,81 @@
+.mixes-presentation{
+    width: 500px;
+    color: white;
+    margin: auto;
+}
+.mixcloud{
+    width: 560px;
+
+    margin: auto;
+
+    transform: scale(0.9);
+
+    transition: all ease-in-out 400ms;
+
+}
+
+.mixcloud:hover {
+
+    transform: scale(1);
+
+    transition: all ease-in-out 400ms;
+
+}
+
+.videoWrapper {
+    position: relative;
+    bottom: 20px;
+    width: 560px;
+
+    height: 315px;
+
+    margin: auto;
+
+    transform: scale(0.9);
+
+    transition: all ease-in-out 400ms;
+
+}
+
+.videoWrapper:hover {
+
+    transform: scale(1);
+
+    transition: all ease-in-out 400ms;
+
+}
+
+.videoWrapper:onclick{
+
+    transform: scale(1);
+
+    transition: all ease-in-out 400ms;
+
+}
+iframe{
+    border: 1px solid whitesmoke;
+    border-radius:10px;
+}
+
+@media screen and (max-width: 680px) {
+
+    .mixcloud{
+
+        width: 100%;
+
+        margin: auto;
+
+    }
+
+    .videoWrapper {
+
+        width:100%;
+
+        height: 100%;
+
+    }
+    .mixes-presentation{
+        width: 100%;
+    }
+
+}

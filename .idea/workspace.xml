@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ac3db01-a5b0-4eef-b0ff-88141538ba5d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../stacoprod/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/.idea/dendo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/.idea/en.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/Model/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/View/includes/carousel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/View/includes/footer-login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/View/includes/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/View/includes/head-login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/View/includes/head.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/View/includes/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/View/includes/navbar.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/View/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/View/login/Songs.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/View/login/compte.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/View/login/connexion-inscription.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/View/login/connexion.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/View/login/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/View/login/inscription.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/View/login/login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/View/login/premium.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/View/login/session_destroy.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/View/pages/accueil.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/View/pages/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/View/pages/mixes.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/View/pages/shop.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/View/pages/tracks.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/View/pages/tracks_old.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/blog.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/mixes.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/player.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/css/accueil.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/css/carousel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/css/footer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/css/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/css/login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/css/mixes.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/css/navbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/css/produits.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/css/tracks.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/fonts/MateSC-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/fonts/OFL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/fonts/Roboto-Black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/fonts/Roboto-BlackItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/fonts/Roboto-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/fonts/Roboto-BoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/fonts/Roboto-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/fonts/Roboto-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/fonts/Roboto-LightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/fonts/Roboto-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/fonts/Roboto-MediumItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/fonts/Roboto-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/fonts/Roboto-Thin.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/fonts/Roboto-ThinItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/fonts/RobotoCondensed-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/fonts/RobotoCondensed-BoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/fonts/RobotoCondensed-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/fonts/RobotoCondensed-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/fonts/RobotoCondensed-LightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/fonts/RobotoCondensed-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/fonts/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/images/Da_Funk_Rocker.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/images/Good.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/images/Je_trouverai.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/images/Our_Land.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/images/Road_Trip.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/images/STACOPRODMUSIC.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/images/System_Fallin.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/images/accueil/B.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/images/accueil/D.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/images/accueil/Da_Funk_Rocker.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/images/accueil/E.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/images/accueil/F.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/images/accueil/Good.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/images/accueil/H.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/images/accueil/Je_trouverai.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/images/accueil/Our_Land.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/images/accueil/Road_Trip.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/images/accueil/STACO.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/images/accueil/STACOPRO.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/images/accueil/System_Fallin.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/images/accueil/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/images/accueil/breakfeast4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/images/accueil/casque.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/images/accueil/chillout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/images/accueil/foule.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/images/accueil/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/images/accueil/stacogrooves.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/images/accueil/vynil1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/images/casque.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/images/facebook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/images/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/images/instagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/images/produits/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/images/staco.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/images/twitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/images/vynil1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/images/youtube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/js/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/js/main.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/js/scripts.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/js/tracks.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/music/Da_Funk_Rocker.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/music/Good.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/music/Je_trouverai.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/music/Our_Land.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/music/Road_Trip.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/music/System_Fallin.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/previews/Da_Funk_Rocker.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/previews/Good.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/previews/Je_trouverai.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/previews/Our_Land.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/previews/Road_Trip.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/previews/System_Fallin.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/public/previews/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/shop.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/stacoprod.mwb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stacoprod/tracks.php" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="29FxNvdnTViSWXXJla79V5hiOpv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ecommerce" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ac3db01-a5b0-4eef-b0ff-88141538ba5d" name="Changes" comment="" />
+      <created>1652722601692</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652722601692</updated>
+      <workItem from="1652722605601" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,57 @@
+/*icone de login*/
+.hello-connected {
+    margin-left: 20px;
+    color: #bebebe;
+    position: relative;
+    right: 0px;
+    z-index:1;
+
+}
+.hello-connected a{
+    color: #bebebe;
+
+}
+.loginlink {
+    text-align: right;
+}
+/*message hello*/
+.hello{
+    color: white;
+    margin: 0px 10px;
+}
+/*deconnecter ou aller au compte*/
+.liens-connect a{
+    text-decoration: underline;
+    margin: 0px 10px;
+}
+.menuPrincipal {
+    display:flex;
+    align-items: center;
+}
+.nav-link{
+    transform: scale(1);
+
+    transition: all ease-in-out 400ms;
+}
+.nav-link:hover{
+    transform: scale(1.2);
+
+    transition: all ease-in-out 400ms;
+}
+.navbar {
+    margin-bottom: 40px;
+}
+@media screen and (max-width: 365px) {
+    .navbar-brand img{
+        width: 130%; !important
+    }
+    .navbar-brand{
+        width: 50%;
+    }
+}
+@media screen and (max-width: 576px) {
+    .hello{
+        display: none;
+    }
+
+}

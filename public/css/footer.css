@@ -1,0 +1,66 @@
+.pied-page {
+    padding:100px 0px;
+    margin-top: 50px;
+    color: white;
+    background-color: #171717;
+}
+.social-container {
+
+    width: 100%;
+
+    display: flex;
+
+    justify-content: center;
+    position: relative;
+    bottom:70px;
+}
+.socialLink {
+
+    height:50px;
+
+}
+
+.socialIcon {
+
+    margin:10px;
+
+    height: 50px;
+
+    transform: scale(0.8);
+
+    transition: all ease-in-out 400ms;
+
+}
+
+.socialIcon:hover {
+
+    height: 50px;
+
+    transform: scale(1.1);
+
+    transition: all ease-in-out 400ms;
+
+}
+@media screen and (max-width: 380px) {
+
+    .socialIcon {
+
+        margin:5px;
+
+        height: 50px;
+
+        transform: scale(0.8);
+
+        transition: all ease-in-out 400ms;
+
+    }
+
+    .socialIcon:hover {
+
+        transform: scale(1.3);
+
+        transition: all ease-in-out 400ms;
+
+    }
+
+}

@@ -1,0 +1,146 @@
+@font-face {
+    font-family: 'roboto';
+    src: url('../fonts/Roboto-Light.ttf');
+}
+body {
+    font-family: 'roboto', Arial, sans-serif;
+    background: linear-gradient(
+            to top,
+            rgba(0,0,0, 0),
+            rgba(0,0,0, 100)
+    ),url("../images/accueil/background.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 1500px;
+    background-color: black;
+	background-repeat: no-repeat;
+    background-position: 50% 0%;
+}
+
+
+h1 {
+
+    font-size: 30px;
+
+    text-align: center;
+
+    color: white;
+    margin-bottom: 30px;
+
+}
+img {
+    border-radius: 9px;
+}
+.pageBody{
+    margin-top: 60px;
+    padding: 50px;
+    border-radius: 10px 10px 0 0;
+   position: relative;
+        top: 50px;
+    background-color: #2d2929;
+}
+p {
+    text-align: justify;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+a:hover {
+    color: rgb(55, 142, 255) !important;
+}
+.introduction {
+    padding: 30px;
+    color: white;
+}
+.logobanner {
+    display:flex;
+    justify-content: center;
+}
+
+
+
+/*container des boutons pour se conencter ou s'enregistrer*/
+.figure{
+    display: flex;
+    text-wrap: none;
+}
+.download{
+    position: relative;
+        top: 7px;
+    z-index: 2;
+}
+
+.bouton {
+    color: black;
+    margin: 20px;
+    padding: 10px;
+    width: 150px;
+    background-color: #05a5ff;
+    border-radius: 10px;
+    box-shadow: 0px 1px 1px black;
+    text-align: center;
+    text-decoration: none;
+    transform: scale(0.8);
+    transition: all ease-in-out 400ms;
+
+}
+.bouton:hover {
+    color: rgb(16, 78, 175) !important;
+    background-color: #ddd;
+    transform: scale(1);
+    transition: all ease-in-out 400ms;
+}
+.bouton-off {
+    color: white;
+    margin: 20px;
+    padding: 10px;
+    width: 150px;
+    background-color: rgb(126, 126, 126);
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.shoplogo {
+    width: 25%;
+}
+.article {
+    background-color: white; !important;
+}
+.jumbotron {
+    margin: 60px;
+}
+.card {
+    background-color: rgba(0,0,0,0);
+}
+.card-body {
+    color: white;
+}
+.table-dark {
+    opacity:80%;
+}
+.card-img-top{
+    border-radius: 10px;
+}
+@media screen and (min-width: 1882px) {
+    body{
+        background-size: 100%;
+    }
+}
+@media screen and (min-width: 365px) and (max-width: 992px) {
+    .shoplogo {
+        width: 245px;
+    }
+}
+@media screen and (max-width: 365px) {
+    .shoplogo {
+        width: 70%;
+    }
+
+}
+@media screen and (min-width: 1280px) {
+    body {
+        background-size: cover;
+        background-position: 50% 60%;
+    }

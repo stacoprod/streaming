@@ -1,0 +1,41 @@
+.carousel {
+    width:50%;
+    margin: auto;
+}
+.carousel-inner {
+    border-radius: 9px;
+
+}
+.carousel-item
+{
+    height: 280px;
+}
+.carousel-item>img
+{
+    border: 2px solid whitesmoke;
+}
+
+.messagecarousel {
+    position: absolute;
+        left: 0px;
+        bottom:0px;
+    width: 100%;
+    padding: 10px;
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+}
+
+@media screen and (max-width: 540px) {
+    .carousel {
+        width:90%;
+    }
+}
+@media screen and (min-width: 540px) {
+    .carousel {
+        width:490px;
+    }
+    .carousel-inner
+    {
+        width:490px;
+    }
+}
